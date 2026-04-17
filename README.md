@@ -27,7 +27,8 @@ The main repository is private. To request reviewer access:
 ## LI.FI Integration
 - Widget: official lifi/widget package
 - Custom Solana provider configuration
-- Route: /en/bridge — bridges 60+ chains to Solana
+- Route: https://solcraft.app/en/bridge
+- Bridges 60+ chains to Solana
 - Aggregates Jupiter, DFlow, Titan, 20+ bridges
 - Non-custodial — user signs with own Solana wallet
 
